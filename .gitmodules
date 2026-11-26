@@ -1,0 +1,3 @@
+[submodule "ansible_ccat"]
+	path = ansible_ccat
+	url = https://github.com/sandervanvugt/ansible_ccat
